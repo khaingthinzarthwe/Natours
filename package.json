@@ -1,0 +1,23 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Landing page for natours",
+  "homepage": "https://github.com/khaingthinzarthwe/Natours#readme",
+  "bugs": {
+    "url": "https://github.com/khaingthinzarthwe/Natours/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khaingthinzarthwe/Natours.git"
+  },
+  "license": "ISC",
+  "author": "Yoh",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
